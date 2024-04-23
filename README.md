@@ -21,6 +21,6 @@ This is a Full stack Pizza Delivery Web App .
 
 ## Tech Stack :-
 
-Mongo DB , React js , Express js , Node js, Redux, Axios , Chakra UI , Ant Design
+Mongo DB , React js , Express js , Node js, HTML, CSS, JS.
 
 
